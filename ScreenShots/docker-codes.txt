@@ -1,0 +1,4 @@
+1) created docker file for Spring and react app with nginx server
+2) created docker-compose.yml
+3) docker-compose up - {for running all}
+4) docker-compose down
